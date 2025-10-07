@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - (ﾐ・ﻌ・ﾐ) I currently work at an automotive supplier.
-- (ﾐ・ﻌ・ﾐ) I majored in mathematics at university.
+- (ﾐ・ﻌ・ﾐ) I majored in algebra at university.
