@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](assets/neko1.gif)
+
 - (ﾐ・ﻌ・ﾐ) I currently work at an automotive supplier.
+
+![](assets/neko2.jpg)
 - (ﾐ・ﻌ・ﾐ) I majored in algebra at university.
