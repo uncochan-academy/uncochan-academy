@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - (ﾐ・ﻌ・ﾐ) I majored in algebra at university.
 - -->
 
+最近は風をひいてねこんでいました．
 ![](assets/neko2.jpg)
 
